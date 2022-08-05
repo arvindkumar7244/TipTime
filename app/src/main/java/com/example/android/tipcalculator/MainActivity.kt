@@ -1,11 +1,13 @@
 package com.example.android.tipcalculator
 
+import android.content.ContentValues.TAG
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.example.android.tipcalculator.databinding.ActivityMainBinding
+import kotlin.math.log
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
@@ -18,7 +20,8 @@ class MainActivity : AppCompatActivity() {
         binding.lifecycleOwner = this
         binding.calculateButton.setOnClickListener { proceed() }
 
-        Log.d("TAG", "onCreate: Hi There")
+        Log.d("TAG", "Mandeep Singh")
+      //  Log.d("TAG", "onCreate: Hi There")
 
     }
 
