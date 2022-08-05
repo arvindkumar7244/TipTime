@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         binding.calculateButton.setOnClickListener { proceed() }
 
         Log.d("TAG", "Mandeep Singh")
-        Log.d("TAG", "onCreate: Hi There")
+      //  Log.d("TAG", "onCreate: Hi There")
 
     }
 
