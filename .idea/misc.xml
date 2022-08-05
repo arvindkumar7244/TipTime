@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/arvin/AndroidStudioProjects/TipCalculator/app/src/main/res/drawable/ic_cost_of_service.xml" value="0.1185" />
+        <entry key="..\:/Users/arvin/AndroidStudioProjects/TipCalculator/app/src/main/res/drawable/ic_round_up_tip.xml" value="0.1185" />
+        <entry key="..\:/Users/arvin/AndroidStudioProjects/TipCalculator/app/src/main/res/drawable/ic_service.xml" value="0.1185" />
         <entry key="..\:/Users/arvin/AndroidStudioProjects/TipCalculator/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
