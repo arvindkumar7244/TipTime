@@ -1,6 +1,7 @@
 package com.example.android.tipcalculator
 
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
@@ -16,6 +17,8 @@ class MainActivity : AppCompatActivity() {
         binding.viewModel = viewModel
         binding.lifecycleOwner = this
         binding.calculateButton.setOnClickListener { proceed() }
+
+        Log.d("ffignfv","YO BUDDY")
 
     }
 
