@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         binding.lifecycleOwner = this
         binding.calculateButton.setOnClickListener { proceed() }
 
-        Log.d("ffignfv","YO BUDDY")
+        Log.d("TAG", "onCreate: Hi There")
 
     }
 
